@@ -1,0 +1,10 @@
+[user]
+	email = 350187947@qq.com
+	name = joseph.wang
+[alias]
+    co = checkout
+    ci = commit
+    br = branch
+    st = status
+[core]
+    editor = vim
